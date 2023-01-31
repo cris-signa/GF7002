@@ -1,8 +1,8 @@
 # Book settings
-title: Physics 111 
-author: Firas Moosvi
-logo: images/logo.jpg
-copyright: ""
+title: Desastres Socio-naturales: una aproximación desde los sistemas complejos 
+author: Jaime Campos, Julián Cortés, Cristián Siegel & Patricio Toledo
+logo: images/fcfm_dgf_png.png
+copyright: "MIT LICENSE"
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
 
