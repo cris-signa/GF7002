@@ -1,10 +1,10 @@
 ![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.jpg)
+![](../images/fcfm_dgf_png.png)
 
-**Department of Computer Science, Mathematics, Physics, and Statistics**
+**Department de Geofísica**
 
-# Course Syllabus (Official)
+# Syllabus (Official)
 
 Below is the official UBC-mandated Course Syllabus for {{ COURSE_CODE }}.
 Elements of this document are **fixed** and unchanging.
@@ -21,7 +21,7 @@ Additional details about the course are available on the {{ '[course website]({l
 ---
 ## Course Instructor
 
-**Name:** {{ INSTRUCTOR }}
+**Name:** {{ Cristián Siegel }}
 
 **Office:** {{ OFFICE }}
 
